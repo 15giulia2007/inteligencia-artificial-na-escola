@@ -1,1 +1,1 @@
-# inteligencia-artificial-na-escola
+# t-cnicas-computacional
